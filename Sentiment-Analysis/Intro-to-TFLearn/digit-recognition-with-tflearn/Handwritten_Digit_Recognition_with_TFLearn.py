@@ -61,7 +61,7 @@ model.fit(trainX,
           validation_set=0.1,
           show_metric=True,
           batch_size=100,
-          n_epoch=20)
+          n_epoch=2)
 
 # Compare the labels that our model predicts with the actual labels
 
