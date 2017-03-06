@@ -5,7 +5,6 @@
 from collections import Counter
 import pandas as pd
 import numpy as np
-import tensorflow as tf
 import tflearn
 from tflearn.data_utils import to_categorical
 
@@ -14,7 +13,7 @@ def text_to_vector(text):
     word_vector = np.zeros(len(vocab), dtype=np.int)
     for word in text.split(' '):
         idx = word2idx.get(word, None)
-        if (idx == None):
+        if (idx is None):
             continue
         else:
             word_vector[word2idx[word]] += 1
