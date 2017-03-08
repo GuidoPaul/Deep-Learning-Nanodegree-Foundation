@@ -1,6 +1,13 @@
-Sentiment-Analysis/Intro-to-TFLearn/digit-recognition-with-tflearn/mnist
 Sentiment-Analysis/Siraj-Sentiment-Analysis/imdb.pkl
+Intro-to-TensorFlow/intro-to-tensorflow/notMNIST_train.zip
+Intro-to-TensorFlow/intro-to-tensorflow/notMNIST_test.zip
+Intro-to-TensorFlow/intro-to-tensorflow/notMNIST.pickle
+
 Neural-Networks/build_neural_network/mnist
+Sentiment-Analysis/Intro-to-TFLearn/digit-recognition-with-tflearn/mnist
+Intro-to-TensorFlow/mnist_use_tensorflow/mnist
+
+*mnist
 *.ipynb_checkpoints
 *.__pycache__
 *.pyc
