@@ -1,6 +1,8 @@
 first-neural-network/build-neural-network/mnist
 intro-to-tflearn/digit-recognition-with-tflearn/mnist
 intro-to-tensorflow/digit-recognition-with-tensorflow/mnist
+deep-neural-network/multilayer-perceptron/mnist
+deep-neural-network/save-load-model/mnist
 
 intro-to-tensorflow/intro-to-tensorflow/notMNIST_train.zip
 intro-to-tensorflow/intro-to-tensorflow/notMNIST_test.zip
