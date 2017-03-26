@@ -11,6 +11,10 @@ intro-to-tensorflow/intro-to-tensorflow/notMNIST.pickle
 
 sentiment-network/Siraj-Sentiment-Analysis/imdb.pkl
 
+embeddings/checkpoints/
+embeddings/data/
+embeddings/text8.zip
+
 *.ipynb_checkpoints
 *.__pycache__
 *.pyc
